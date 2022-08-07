@@ -16,4 +16,4 @@ Additionally, you can see my preferred languages here;
 
 I'm currently focusing on learing the excellent Go (/ Golang) after which I plan to learn Java.
 
-I also have an interest in learning both C and Python's Django framework, however Java is uniquly valuable in the Irish jobs market and will therefore be my next priority. So many languages, so little time!
+I also have an interest in learning both C and Python's Django framework, however Java is uniquly valuable in the Irish jobs market and is therefore my next priority. So many languages, so little time!
