@@ -16,6 +16,8 @@ Additionally, you can see my preferred languages below;
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsarno&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
 
-I'm currently focusing on learing the excellent Go (/ Golang) after which I plan to learn Java.
+I'm currently focusing on learing the excellent Go (/ Golang) after which I plan to learn either Java or C#.
 
-I also have an interest in learning both C and Python's Django framework - however, Java is uniquly valuable in the Irish jobs market and it will therefore be my next priority. So many languages, so little time!
+I also have an interest in learning both C and Python's Django framework - however, Java and C# are both uniquly valuable in the Irish jobs market, and one of them will therefore be my next priority.
+
+So many languages, so little time!
