@@ -13,7 +13,7 @@ You can see some metrics for the current year below;
 Additionally, you can see my preferred languages below;
 
 <a href="https://github.com/MrSarno">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSarno&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=github_dark&cache_seconds=7200" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSarno&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=github_dark" />
 </a>
 
 I'm currently focusing on learing the excellent Go (/ Golang) after which I plan to learn either Java or C#.
