@@ -13,7 +13,7 @@ You can see some metrics for the current year below;
 Additionally, you can see my preferred languages below;
 
 <a href="https://github.com/MrSarno">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSarno&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=github_dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSarno&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark" />
 </a>
 
 I'm currently focusing on learning C#, which is somewhat overrepresented above due to the .csproj & .sln files.
