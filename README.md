@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name's John & I like hacking things together in a handful of languages.
+My name's John & I like creating things in various languages.
 
 Here's some of the tech I'm experienced with;
 
